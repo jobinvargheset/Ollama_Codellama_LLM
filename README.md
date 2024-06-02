@@ -1,0 +1,1 @@
+This project aims at installing codellama on local PC and then deploy using gradio on the web browser. This LLM on local machine is exclusively made for giving answers on coding and doesnot have access to weather data 
